@@ -14,6 +14,9 @@ Ele permite gerar um QR code customizado com a cor, imagem, cor de fundo e taman
 
 ---
 
+## Versão online do projeto:
+Caso você queira ver o projeto em execução de forma mais rápida e facíl acesse o link: https://qrcode.maycon.dev.br/
+
 ## Requerimentos
 
 - **Node.js** – A partir da versão 22.
